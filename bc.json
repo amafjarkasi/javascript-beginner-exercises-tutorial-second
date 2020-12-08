@@ -1,6 +1,6 @@
 {
     "port": 3000,
-    "address": "https://d418fa25-06aa-4a29-814d-bb5c8516786c.ws-us03.gitpod.io",
+    "address": "https://b6cec76a-b77f-48d6-a7a3-489e92ebb300.ws-us03.gitpod.io",
     "editor": "gitpod",
     "configPath": {
         "config": "bc.json",
@@ -50,7 +50,7 @@
         {
             "slug": "02-Hello-World",
             "title": "02-Hello-World",
-            "done": false,
+            "done": true,
             "path": "exercises/02-Hello-World",
             "translations": [
                 "es",
@@ -61,7 +61,7 @@
         {
             "slug": "03-Print-variables-in-the-console",
             "title": "03-Print-variables-in-the-console",
-            "done": false,
+            "done": true,
             "path": "exercises/03-Print-variables-in-the-console",
             "translations": [
                 "es",
@@ -72,7 +72,7 @@
         {
             "slug": "04-Multiply-two-values",
             "title": "04-Multiply-two-values",
-            "done": false,
+            "done": true,
             "path": "exercises/04-Multiply-two-values",
             "translations": [
                 "es",
@@ -83,7 +83,7 @@
         {
             "slug": "05-User-inputed-variables",
             "title": "05-User-inputed-variables",
-            "done": false,
+            "done": true,
             "path": "exercises/05-User-inputed-variables",
             "translations": [
                 "es",
@@ -94,7 +94,7 @@
         {
             "slug": "06-Constants",
             "title": "06-Constants",
-            "done": false,
+            "done": true,
             "path": "exercises/06-Constants",
             "translations": [
                 "es",
@@ -105,7 +105,7 @@
         {
             "slug": "07-String-concatenation",
             "title": "07-String-concatenation",
-            "done": false,
+            "done": true,
             "path": "exercises/07-String-concatenation",
             "translations": [
                 "es",
@@ -116,7 +116,7 @@
         {
             "slug": "08-Create-a-basic-HTML",
             "title": "08-Create-a-basic-HTML",
-            "done": false,
+            "done": true,
             "path": "exercises/08-Create-a-basic-HTML",
             "translations": [
                 "es",
@@ -127,7 +127,7 @@
         {
             "slug": "09-Calling-your-first-function",
             "title": "09-Calling-your-first-function",
-            "done": false,
+            "done": true,
             "path": "exercises/09-Calling-your-first-function",
             "translations": [
                 "es",
@@ -138,7 +138,7 @@
         {
             "slug": "10-Creating-your-first-function",
             "title": "10-Creating-your-first-function",
-            "done": false,
+            "done": true,
             "path": "exercises/10-Creating-your-first-function",
             "translations": [
                 "es",
@@ -149,7 +149,7 @@
         {
             "slug": "11-Create-a-new-function",
             "title": "11-Create-a-new-function",
-            "done": false,
+            "done": true,
             "path": "exercises/11-Create-a-new-function",
             "translations": [
                 "es",
@@ -160,7 +160,7 @@
         {
             "slug": "12-Your-first-if",
             "title": "12-Your-first-if",
-            "done": false,
+            "done": true,
             "path": "exercises/12-Your-first-if",
             "translations": [
                 "es",
