@@ -5,8 +5,9 @@ function startCounting()
 	var counter = 100;
 	while(counter <= 100)
 	{
-		counter --;
-		console.log(counter);
+        console.log(counter);
+        counter--;
+        if (counter < 0) { break; }
 	}
 	
 	return counter;
